@@ -1,1 +1,15 @@
-null
+{
+  "enabled": true,
+  "level": "advanced",
+  "lock": true,
+  "hiddenMenus": [
+    "project",
+    "edit",
+    "addData",
+    "processing",
+    "plugins"
+  ],
+  "hiddenMenuItems": [
+    "help.diagnostics"
+  ]
+}
